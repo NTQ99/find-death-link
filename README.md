@@ -15,7 +15,7 @@ The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More detail
 
 ## Run code
 
-build:
-    cd src/ && javac -cp ".;..\lib\jsoup-1.13.1.jar" .\crawler\MainClass.java
-run:
-    java -cp ".;..\lib\jsoup-1.13.1.jar" crawler.MainClass
+- `build`:
+&nbsp;&nbsp;&nbsp;&nbsp;cd src/ && javac -cp ".;..\lib\jsoup-1.13.1.jar" .\crawler\MainClass.java
+- `run`:
+&nbsp;&nbsp;&nbsp;&nbsp;java -cp ".;..\lib\jsoup-1.13.1.jar" crawler.MainClass
