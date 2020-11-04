@@ -11,6 +11,13 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+/**
+ * @author
+ * Nguyễn Tuấn Quốc - 17021326
+ * Nguyễn Phương Hằng - 17021241
+ * Lưu Hoài Linh - 17021284
+ */
+
 public class CrawlerWebsite {
 
     ArrayList<String> listLinks = new ArrayList<>();
